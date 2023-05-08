@@ -297,3 +297,74 @@ sh 3rd.sh
 vi 3rd.sh
 sh 3rd.sh
 vi 3rd.sh
+sudo su
+yem install git -y
+git --version
+ls
+ll
+git init 
+ls -a
+ls -al
+ls
+vi file1
+ll
+cat file1
+git add file1 
+git commit -m "first commint" file1
+git log
+touch file2
+vi file2
+./ file2
+vi file2
+sh file2
+vi file2
+sh file2
+git status
+git add file2
+git commit -m "commit second file"
+git log
+git status
+touch file3
+git add .
+git commit -m "third file commit" .
+git status
+git log
+clear
+git log
+ls
+git remote add origin https://github.com/Akshaya-Polu/DEVOPS.git
+ll
+ls
+git branch
+git push -u origin master
+git remote add origin https://github.com/Akshaya-Polu/DEVOPS.git
+sudo -i
+git remote add origin https://github.com/Akshaya-Polu/DEVOPS.git
+git branch
+clear
+sudo su
+git status
+git remote add origin https://github.com/Akshaya-Polu/DEVOPS.git
+git status
+git branch
+git push -u Akshaya-polu
+git push -u master
+git push -u origin master
+git remote add origin https://github.com/Akshaya-Polu/DEVOPS.git
+git branch
+git push -u origin master
+get branch
+git branch
+git banch branch1
+git branch branch1
+get branch1
+get branch
+git branch
+git checkout branch1
+git branch
+touch file1
+ll
+get checkout master
+ls
+ll
+git status
