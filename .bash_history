@@ -297,3 +297,212 @@ sh 3rd.sh
 vi 3rd.sh
 sh 3rd.sh
 vi 3rd.sh
+git status
+ls
+git add abhi
+git commit -m "abhi added" abhi
+git branch
+git checkout master
+touch konda.txt
+git add .
+git commit -m "this file also added" .
+git branch
+git status
+git log
+git remote add origin https://github.com/Akshaya-Polu/DEVOPS.git
+git push -u origin master
+git branch
+git branch branch2
+git branch
+git checkout master
+git branch
+git status
+sudo -i
+git branch
+git branch -d <branch1>
+git branch -d<branch1>
+git branch
+git branch -d branch1
+git branch -D branch1
+git branch
+git branch -D branch2
+git status
+touch add.txt
+vim add.txt
+ls
+vi add.txt
+touh add.txt
+vim add.txt
+touch arthmatic 
+vim arthmatic.sh
+./ arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+sh arthmatic.sh
+vim arthmatic.sh
+git add arthmatic
+git commit -m " arthmatic perform" arthmatic
+git push -u origin master
+vim file1.sh
+git status
+touch operators
+vim operators.sh
+sh operators.sh
+vim operators.sh
+git status
+vim operators.sh
+sh operators.sh
+vim operators.sh
+sh operators.sh
+vim operators.sh
+sh operators.sh
+vim operators.sh
+sh operators.sh
+vim operators.sh
+vi operators.sh
+sh operators.sh
+vi operators.sh
+sh operators.sh
+vi operators.sh
+sh operators.sh
+5
+2
+sh operators.sh
+vi operators.sh
+sh operators.sh
+touch loops
+vim loops
+sh loops
+vim loops
+sh loops
+vim loops
+sh loops
+vim loops
+ls
+cat add.txt
+cat >> add.txt
+vim cat.txt
+vim add.txt
+sh add.txt
+vim add.txt
+sh add.txt
+vim add.txt
+sh add.txt
+vim add.txt
+ls
+vim file1
+sh file1
+vim file1
+sh file1
+vim file1
+sh file1
+vim file1
+sh file1
+LS
+ls
+sh file1
+vim file1
+sh file1
+vim file1
+sh file1
+ls -ltr file2
+vim file1
+sh file1
+ls -ltr file2
+vim file1
+sh file1
+vim file1
+sh file1
+vim file1
+sh file1
+vim file1
+vim first
+sh first
+vim first
+vi first
+sh first
+vi first
+sh first
+vi first
+sh first
+vi first
+sh first
+vi first
+sh first
+vi first
+sh first
+23
+80
+sh first
+80
+vi first
+45
+77
+sh first
+77
+vi first
+vim first
+ls
+sh file2
+vim file3
+sh file3
+vim file3
+sh file3
+vim file3
+sh file3
+vim file3
+sh file3
+vim file3
+sh file3
+vim file3
+sh file3
+cat file3
+cat file1
+vim file3
+sh file3
+vim file3
+sh file3
+vim file3
+vim file1.sh
+sh file1.sh
+cat example.txt
+cat box
+ls -ltr box
+vim file1.sh
+sh file1.sh
+ls -ltr box
+ls
+cat bo
+ls -a
+ls box
+vim file3
+vim file3.sh
+sh file3.sh
+vim file3.sh
+sh file3.sh
+vim file3.sh
+sh.file3.sh
+sh file3.sh
+vim file3.sh
+sh file3.sh
+vim file3.sh

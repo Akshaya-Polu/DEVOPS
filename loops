@@ -1,0 +1,7 @@
+#!/bin/bash
+
+##### if age is greather then 30 they are elder otherwise they are younger
+
+echo "enter age:"
+read age
+echo "wow,you look younger than $age year old"	

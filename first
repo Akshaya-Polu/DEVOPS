@@ -1,0 +1,10 @@
+#!/bin/bash
+ 
+read -p "Enter First Numeric Value: " num
+
+if [[ $num -le 50 ] && [ $num -ge 70 ]] || [[ $num -le 100 ] || [$num -ge 200 ]]
+then
+    echo "Input number ($num) is between 10-20 or 100-200"
+else
+     echo "Input number ($num) is neither between 10-20 nor 100-200"
+fi

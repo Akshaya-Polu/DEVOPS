@@ -1,1 +1,10 @@
-hai wellcome to the class
+#!/bin/bash
+  
+read -p "try ur guess :"num
+
+if [[$num%==0 || $num%5==0]]
+then
+	echo "ur guess is correct"
+else 
+	echo "better luck next time"
+fi
